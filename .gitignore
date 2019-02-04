@@ -1,3 +1,6 @@
+# gitignore getting ride of getignore
+.idea
+
 # Logs
 logs
 *.log
